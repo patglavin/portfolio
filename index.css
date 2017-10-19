@@ -1,0 +1,36 @@
+body {
+    background: linear-gradient(to bottom right, #fff, rgb(209, 209, 209));
+    background-attachment: fixed;
+    position: relative;
+}
+
+.jumbotron {
+    background-color: rgb(66, 0, 63);
+    color: #fff;
+    border-radius: 0;
+    text-indent: 13%;
+}
+
+em {
+    font-weight: bold;
+}
+
+.container {
+    text-align: center;
+}
+
+.header {
+    margin-bottom: 45px;
+    margin-top: 145px;
+}
+
+i.topLogo {
+    font-size: 200%;
+}
+
+.footer {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    margin-top: 40px;
+}
